@@ -43,11 +43,11 @@ params:
     enabled: true
     title: "Rob J. Wang"
     subtitle: |
-      Head of Data Science, Go-to-Market @ Stripe
+      Head of Go-to-Market Data Science @ Stripe
       
-      Previously: Square, Robinhood, Slack, Airbnb
+      Previously: Block (Square), Robinhood Markets, Slack Technologies, Airbnb
       
-      Ph.D. Stanford · Operations Research
+      Ph.D. Stanford · Operations Research · Statistics · Mathematics
     imageUrl: "/images/profile.jpg"
     imageWidth: 160
     imageHeight: 160
