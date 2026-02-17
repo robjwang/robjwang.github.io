@@ -57,6 +57,8 @@ params:
         url: about
       - name: Publications
         url: publications
+      - name: Writing
+        url: writing
 
   socialIcons:
     - name: googlescholar
