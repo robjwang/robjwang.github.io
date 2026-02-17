@@ -1,5 +1,6 @@
 ---
 title: "Revamping Data Science Interviews"
 date: 2022-01-01
-externalUrl: "https://developer.squareup.com/blog/revamping-data-science-interviews/"
 ---
+
+[Read on Square Developer Blog →](https://developer.squareup.com/blog/revamping-data-science-interviews/)
