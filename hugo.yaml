@@ -86,9 +86,9 @@ menu:
       name: Publications
       url: /publications/
       weight: 20
-    - identifier: posts
-      name: Posts
-      url: /posts/
+    - identifier: writing
+      name: Writing
+      url: /writing/
       weight: 30
 
 outputs:
