@@ -1,0 +1,98 @@
+baseURL: "https://robjwang.github.io/"
+languageCode: "en-us"
+title: "Rob J. Wang"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "Rob J. Wang"
+  description: "Data Science & ML Leader"
+  keywords: [Data Science, Machine Learning, Operations Research]
+  author: "Rob J. Wang"
+  
+  defaultTheme: light
+  disableThemeToggle: false
+  
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: true
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # Home page profile
+  profileMode:
+    enabled: true
+    title: "Rob J. Wang"
+    subtitle: |
+      Head of Data Science, Go-to-Market @ Stripe
+      
+      Previously: Square, Robinhood, Slack, Airbnb
+      
+      Ph.D. Stanford · Operations Research
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: "Rob J. Wang"
+    buttons:
+      - name: About
+        url: about
+      - name: Publications
+        url: publications
+
+  socialIcons:
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=HpNjbT0AAAAJ&hl=en"
+    - name: github
+      url: "https://github.com/robjwang"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/robjwang/"
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
