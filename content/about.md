@@ -7,9 +7,9 @@ summary: "About Rob J. Wang"
 
 ## About Me
 
-I lead the Go-to-Market Data Science team at [Stripe](https://stripe.com), focused on GTM systems spanning marketing measurement, sales automation, revenue forecasting, and (increasingly) AI-driven workflows supporting decision-making and execution.
+I lead the Go-to-Market Data Science team at [Stripe](https://stripe.com), focusing on advanced GTM systems spanning marketing measurement, sales automation, revenue forecasting, and (increasingly) AI-driven workflows supporting decision-making and execution.
 
-Previously, I've worked on data science teams (in both managerial and individual contributor capacities) at [Block (Square)](https://block.xyz), [Robinhood Markets](https://robinhood.com), [Slack Technologies](https://slack.com), and [Airbnb](https://airbnb.com), developing broad expertise across growth/GTM, online marketplace, SaaS, payments, and fraud detection domains.
+Previously, I worked on data science teams (in both managerial and individual contributor capacities) at [Block (Square)](https://block.xyz), [Robinhood Markets](https://robinhood.com), [Slack Technologies](https://slack.com), and [Airbnb](https://airbnb.com), developing broad expertise across growth/GTM, online marketplace, SaaS, payments, and fraud detection domains.
 
 ---
 
